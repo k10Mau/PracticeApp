@@ -1,0 +1,10 @@
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.DAL\bin\Debug\MSTest.PersonDetailsApp.DAL.dll.config
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.DAL\bin\Debug\MSTest.PersonDetailsApp.DAL.dll
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.DAL\bin\Debug\MSTest.PersonDetailsApp.DAL.pdb
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.DAL\bin\Debug\EntityFramework.dll
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.DAL\bin\Debug\EntityFramework.xml
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.DAL\obj\Debug\MSTest.PersonDetailsApp.DAL.csprojResolveAssemblyReference.cache
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.DAL\obj\Debug\MSTest.PersonDetailsApp.DAL.dll
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.DAL\obj\Debug\MSTest.PersonDetailsApp.DAL.pdb

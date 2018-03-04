@@ -1,0 +1,5 @@
+C:\MVCApp\BankingApp\BankApp\MyClassLibrary\obj\Debug\MyClassLibrary.csprojResolveAssemblyReference.cache
+C:\MVCApp\BankingApp\BankApp\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\MVCApp\BankingApp\BankApp\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\MVCApp\BankingApp\BankApp\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\MVCApp\BankingApp\BankApp\MyClassLibrary\obj\Debug\MyClassLibrary.pdb

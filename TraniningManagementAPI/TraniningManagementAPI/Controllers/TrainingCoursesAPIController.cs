@@ -5,6 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
+using System.Web.Http.Cors;
 using TraningManagementServices.Contract;
 using TraningManagementServices.Implementation;
 
@@ -12,6 +13,7 @@ namespace TraniningManagementAPI.Controllers
 {
     [AllowAnonymous]
     
+    [EnableCors(origins: "*", headers:"*",methods:"*")]
     public class TrainingCoursesAPIController : ApiController
     {
         private ITraingCourses _trainingCourses;

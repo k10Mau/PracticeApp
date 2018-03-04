@@ -1,0 +1,10 @@
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.DAL\bin\Debug\MsExam.MyTestWebApi.DAL.dll.config
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.DAL\bin\Debug\MsExam.MyTestWebApi.DAL.dll
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.DAL\bin\Debug\MsExam.MyTestWebApi.DAL.pdb
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.DAL\bin\Debug\EntityFramework.dll
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.DAL\bin\Debug\EntityFramework.xml
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.DAL\obj\Debug\MsExam.MyTestWebApi.DAL.csprojResolveAssemblyReference.cache
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.DAL\obj\Debug\MsExam.MyTestWebApi.DAL.dll
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.DAL\obj\Debug\MsExam.MyTestWebApi.DAL.pdb

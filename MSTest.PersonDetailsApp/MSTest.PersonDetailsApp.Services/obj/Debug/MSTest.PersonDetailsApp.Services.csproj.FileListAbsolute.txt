@@ -1,0 +1,14 @@
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\obj\Debug\MSTest.PersonDetailsApp.Services.csprojResolveAssemblyReference.cache
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\bin\Debug\MSTest.PersonDetailsApp.Services.dll.config
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\bin\Debug\MSTest.PersonDetailsApp.Services.dll
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\bin\Debug\MSTest.PersonDetailsApp.Services.pdb
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\bin\Debug\EntityFramework.dll
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\bin\Debug\MSTest.PersonDetailsApp.Contract.dll
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\bin\Debug\MSTest.PersonDetailsApp.DAL.dll
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\bin\Debug\MSTest.PersonDetailsApp.Contract.pdb
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\bin\Debug\MSTest.PersonDetailsApp.DAL.pdb
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\bin\Debug\EntityFramework.xml
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\obj\Debug\MSTest.PersonDetailsApp.Services.dll
+C:\MVCApp\MSTest.PersonDetailsApp\MSTest.PersonDetailsApp.Services\obj\Debug\MSTest.PersonDetailsApp.Services.pdb

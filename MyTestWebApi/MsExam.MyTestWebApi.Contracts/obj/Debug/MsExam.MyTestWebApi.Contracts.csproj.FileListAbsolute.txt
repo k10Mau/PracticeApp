@@ -1,0 +1,5 @@
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.Contracts\bin\Debug\MsExam.MyTestWebApi.Contracts.dll
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.Contracts\bin\Debug\MsExam.MyTestWebApi.Contracts.pdb
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.Contracts\obj\Debug\MsExam.MyTestWebApi.Contracts.csprojResolveAssemblyReference.cache
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.Contracts\obj\Debug\MsExam.MyTestWebApi.Contracts.dll
+C:\MVCApp\MyTestWebApi\MsExam.MyTestWebApi.Contracts\obj\Debug\MsExam.MyTestWebApi.Contracts.pdb

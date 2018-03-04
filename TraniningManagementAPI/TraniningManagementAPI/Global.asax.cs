@@ -30,6 +30,7 @@ namespace TraniningManagementAPI
             var ex = Server.GetLastError();
             // Log application level exceptions
         }
+        
 
         protected void Application_EndRequest()
         {

@@ -92,3 +92,6 @@ C:\MVCApp\TraniningManagementAPI\TraniningManagementAPI\bin\TraningManagementSer
 C:\MVCApp\TraniningManagementAPI\TraniningManagementAPI\bin\AutoMapper.dll
 C:\MVCApp\TraniningManagementAPI\TraniningManagementAPI\bin\TraningManagementServices.pdb
 C:\MVCApp\TraniningManagementAPI\TraniningManagementAPI\bin\AutoMapper.xml
+C:\MVCApp\TraniningManagementAPI\TraniningManagementAPI\bin\System.Web.Cors.dll
+C:\MVCApp\TraniningManagementAPI\TraniningManagementAPI\bin\System.Web.Http.Cors.dll
+C:\MVCApp\TraniningManagementAPI\TraniningManagementAPI\bin\System.Web.Http.Cors.xml

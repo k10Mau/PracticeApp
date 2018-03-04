@@ -1,0 +1,14 @@
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\bin\Debug\MsExam.MyTestApi.Services.dll
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\bin\Debug\MsExam.MyTestApi.Services.pdb
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\obj\Debug\MsExam.MyTestApi.Services.csprojResolveAssemblyReference.cache
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\obj\Debug\MsExam.MyTestApi.Services.dll
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\obj\Debug\MsExam.MyTestApi.Services.pdb
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\bin\Debug\MsExam.MyTestApi.Services.dll.config
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\bin\Debug\EntityFramework.dll
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\bin\Debug\MsExam.MyTestWebApi.Contracts.dll
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\bin\Debug\MsExam.MyTestWebApi.DAL.dll
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\bin\Debug\MsExam.MyTestWebApi.Contracts.pdb
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\bin\Debug\MsExam.MyTestWebApi.DAL.pdb
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\bin\Debug\EntityFramework.xml
+C:\MVCApp\MyTestWebApi\MsExam.MyTestApi.Services\bin\Debug\EntityFramework.SqlServer.xml

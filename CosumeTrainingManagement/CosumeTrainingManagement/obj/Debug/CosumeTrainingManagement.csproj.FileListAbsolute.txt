@@ -1,0 +1,10 @@
+C:\MVCApp\CosumeTrainingManagement\CosumeTrainingManagement\bin\Debug\CosumeTrainingManagement.exe.config
+C:\MVCApp\CosumeTrainingManagement\CosumeTrainingManagement\bin\Debug\CosumeTrainingManagement.exe
+C:\MVCApp\CosumeTrainingManagement\CosumeTrainingManagement\bin\Debug\CosumeTrainingManagement.pdb
+C:\MVCApp\CosumeTrainingManagement\CosumeTrainingManagement\bin\Debug\Newtonsoft.Json.dll
+C:\MVCApp\CosumeTrainingManagement\CosumeTrainingManagement\bin\Debug\Newtonsoft.Json.xml
+C:\MVCApp\CosumeTrainingManagement\CosumeTrainingManagement\obj\Debug\CosumeTrainingManagement.csprojResolveAssemblyReference.cache
+C:\MVCApp\CosumeTrainingManagement\CosumeTrainingManagement\obj\Debug\CosumeTrainingManagement.exe
+C:\MVCApp\CosumeTrainingManagement\CosumeTrainingManagement\obj\Debug\CosumeTrainingManagement.pdb
+C:\MVCApp\CosumeTrainingManagement\CosumeTrainingManagement\bin\Debug\System.Net.Http.Formatting.dll
+C:\MVCApp\CosumeTrainingManagement\CosumeTrainingManagement\obj\Debug\CosumeTrainingManagement.csproj.CosumeTrainingManagement.exe.config
